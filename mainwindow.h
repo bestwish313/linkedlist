@@ -26,8 +26,8 @@ public:
     void insertFront(node **, int);
     void searchNode(node *, int);
     void reverse(node **);
-    void copyLinkedList(node *, node **);
-    void deleteLinkedList(node **);
+    //void copyLinkedList(node *, node **);
+    //void deleteLinkedList(node **);
     void display(node *);
 
 private:

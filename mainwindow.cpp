@@ -96,7 +96,7 @@ reverse(node **head) {
 
 void
 MainWindow::
-display (node *head) {
+display(node *head) {
 
     node *cur = head;
     while (cur) {
